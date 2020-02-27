@@ -37,7 +37,7 @@ Have vulnerabilities been used in real world attacks?
 | - | [Drupalgeddon 2](https://www.drupal.org/sa-core-2018-002) | 2018 | Drupal | Remote code execution | Yes | [ZDNet/Drupalgeddon2/DirtyCOW attacks](https://www.zdnet.com/article/hackers-use-drupalgeddon-2-and-dirty-cow-exploits-to-take-over-web-servers/) |
 | <img src="logo/efail.svg" height="50"> | [EFAIL](https://efail.de/) | 2018 | OpenPGP/SMIME | Exfiltrate decrypted mails with HTML | No | - |
 | - | [Bleichenbacher's CAT](http://cat.eyalro.net/) | 2018 | TLS | Lack of Bleichenbacher attack countermeasures | No | - |
-| <img src="logo/forgot2keyxchange.png" height="50"> | [Forgot2kEyXCHANGE](https://www.thezdi.com/blog/2020/2/24/cve-2020-0688-remote-code-execution-on-microsoft-exchange-server-through-fixed-cryptographic-keys) | 2020 | Microsoft Exchange Server | failing to properly create unique cryptographic keys | No | [netsec](https://old.reddit.com/r/netsec/comments/f9nchp/forgot2keyxchange_cve20200688_remote_code/) |
+| <img src="logo/forgot2keyxchange.png" height="50"> | [Forgot2kEyXCHANGE](https://www.thezdi.com/blog/2020/2/24/cve-2020-0688-remote-code-execution-on-microsoft-exchange-server-through-fixed-cryptographic-keys) | 2020 | Microsoft Exchange Server | Failing to properly create unique cryptographic keys | No | [netsec](https://old.reddit.com/r/netsec/comments/f9nchp/forgot2keyxchange_cve20200688_remote_code/) |
 
 FAQ
 ===
